@@ -13,7 +13,6 @@ The rubber band sits within it’s recessed channel and holds the phone securely
 The back of the sled has been designed to attach to the HUE web cam and Amazon basics extension cable specifically.
 
 
-
 # Part list for sled
 
 __HUE HD (black) USB camera__
@@ -35,7 +34,6 @@ http://amzn.to/29gOfRQ
 __LOCTITE Powerflex Ultra Control Gel Super Glue 3g__
 to glue it all together (suitable for ABS 3D print filament)
 http://amzn.to/29dcv8R
-
 
 
 # Part and software list for the rest of the kit
